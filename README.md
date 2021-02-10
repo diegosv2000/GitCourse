@@ -6,6 +6,11 @@ git and Github in your projects.
 
 <img align="right" height="auto" width="200" src="https://github.com/alexliqu09/GitCourse/blob/main/src/git.png"/>
 
+## 🆕 Update 
+
+- 10/02/2021
+    -  Esta es la primera versión de nuestro curso de Git
+
 ## **Índice** 
 
 * Comandos de Git : <a href="https://github.com/alexliqu09/GitCourse/blob/main/work/Git.md"> 📝 </a>
