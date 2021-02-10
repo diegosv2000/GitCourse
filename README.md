@@ -1,4 +1,4 @@
-## ** <center>  Curso de Git/Github </center> **
+##  <center>  Curso de Git/Github </center> 
 <p align="right">
 
 <img src="src/git.png" width="250"/>
