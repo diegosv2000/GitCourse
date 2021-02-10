@@ -40,3 +40,7 @@ Con este comando puedes actualizar tu repostorio local con los cambios realizado
 ## [Git clone](https://git-scm.com/docs/git-clone) :
 
 Clona un repositorio en un directorio recién creado, crea ramas de seguimiento remoto para cada rama en el repositorio clonado
+
+## [Git log](https://git-scm.com/docs/git-log) :
+
+Nos retorna una lista de 
