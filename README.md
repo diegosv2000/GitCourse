@@ -9,7 +9,7 @@ git and Github in your projects.
 ## 🆕 Update 
 
 - 10/02/2021
-    -  Esta es la primera versión de nuestro repositorio de Git
+    -  Esta es la v1 de nuestro repositorio acerca de Git
 
 ## **Índice** 
 
