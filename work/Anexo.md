@@ -33,7 +33,7 @@ Cn git remote lo que se est haciendo es crear un control remoto de nombre origin
 ## [Git Push](https://git-scm.com/docs/git-push) :
 
 Con git push lo que hacemos cargar nuestros archivos desde local a nuestro repositorio remoto es decir transfiere todos los commit desde desde la repo local a tu repo remota.
-## [Gir pull](https://git-scm.com/docs/git-pull)
+## [Git pull](https://git-scm.com/docs/git-pull)
 
 Con este comando puedes actualizar tu repostorio local con los cambios realizados desde github.
 
