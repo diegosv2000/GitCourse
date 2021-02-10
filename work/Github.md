@@ -9,7 +9,7 @@ Primero comenzaremos entrando en nuestro perfil en repositorios como se ve en la
 
 <p align="center">
 
-<img src="../src/repo.png" width="500"/>
+<img src="../src_/repo.png" width="500"/>
 
 <p align="center"></p>
 
@@ -19,7 +19,7 @@ Seleccionar el boton verde new.
 
 <p align="center">
 
-<img src="../src/crearrepo.png" width="500"/>
+<img src="../src_/crearrepo.png" width="500"/>
 
 <p align="center"></p>
 
@@ -30,7 +30,7 @@ Como se puede ver  en la imagende abajo debemos escribir el titulo del repositor
 
 <p align="center">
 
-<img src="../src/crearrepo2.png" width="500"/>
+<img src="../src_/crearrepo2.png" width="500"/>
 
 <p align="center"></p>
 
@@ -41,7 +41,7 @@ Posterior a ello nos saldra esta ventan donde nosotros nos centraremos en el `or
 
 <p align="center">
 
-<img src="../src/subiendorepo.png" width="500"/>
+<img src="../src_/subiendorepo.png" width="500"/>
 
 <p align="center"></p>
 
@@ -50,7 +50,7 @@ Posterior a ello nos saldra esta ventan donde nosotros nos centraremos en el `or
 Copiamos las los comandos en la terminal
 <p align="center">
 
-<img src="../src/subiendomidirectorioagithub.png" width="770"/>
+<img src="../src_/subiendomidirectorioagithub.png" width="770"/>
 
 <p align="center"></p>
 
@@ -58,7 +58,7 @@ Copiamos las los comandos en la terminal
 
 <p align="center">
 
-<img src="../src/creandolaramamain.png" width="770"/>
+<img src="../src_/creandolaramamain.png" width="770"/>
 
 <p align="center"></p>
 
@@ -68,7 +68,7 @@ Y con el comando `git push` se termina de subir todo nuestro trabajo.
 
 <p align="center">
 
-<img src="../src/subiendomidircconpush.png" width="500"/>
+<img src="../src_/subiendomidircconpush.png" width="500"/>
 
 <p align="center"></p>
 
@@ -78,7 +78,7 @@ Aquí podemos ver el trabajo subido
 
 <p align="center">
 
-<img src="../src/gitpushengithubvista.png" width="500"/>
+<img src="../src_/gitpushengithubvista.png" width="500"/>
 
 <p align="center"></p>
 
@@ -92,7 +92,7 @@ para esta explicación  se creo en el escritorio local una carpeta clone donde s
 
 <p align="center">
 
-<img src="../src/clone.png" width="500"/>
+<img src="../src_/clone.png" width="500"/>
 
 <p align="center"></p>
 
@@ -102,7 +102,7 @@ en en la terminal y en la carpeta clone tenemos:
 
 <p align="center">
 
-<img src="../src/cloneenlocal.png" width="700"/>
+<img src="../src_/cloneenlocal.png" width="700"/>
 
 <p align="center"></p>
 
@@ -110,7 +110,7 @@ en en la terminal y en la carpeta clone tenemos:
 
 <p align="center">
 
-<img src="../src/clonedir.png" width="700"/>
+<img src="../src_/clonedir.png" width="700"/>
 
 <p align="center"></p>
 

@@ -6,7 +6,7 @@ un trabajo parelo a la rama Master/Main , como se ve en la imagen.
 
 <p align="center">
 
-<img src="../src/branch.png" width="500"/>
+<img src="../src_/branch.png" width="500"/>
 
 <p align="center"></p>
 
@@ -21,7 +21,7 @@ Se creo una carpeta prueba_branch en el trabajo y dentro de ella esta el archivo
 
 <p align="center">
 
-<img src="../src/prueba.png" width="500"/>
+<img src="../src_/prueba.png" width="500"/>
 
 <p align="center"></p>
 
@@ -32,7 +32,7 @@ siguiente a ello con `git branch` vemos las ramas creadas en este caso tenemos l
 
 <p align="center">
 
-<img src="../src/branch1.png" width="700"/>
+<img src="../src_/branch1.png" width="700"/>
 
 <p align="center"></p>
 
@@ -43,7 +43,7 @@ Si nos situamos en el algoritmo de  `prueba.py` este constara de una funcón de 
 
 <p align="center">
 
-<img src="../src/mainci.png" width="700"/>
+<img src="../src_/mainci.png" width="700"/>
 
 <p align="center"></p>
 
@@ -52,7 +52,7 @@ Si nos situamos en el algoritmo de  `prueba.py` este constara de una funcón de 
 utilizamos `git log --oneline` para ver el commit de la nueva rama
 <p align="center">
 
-<img src="../src/log.png" width="800"/>
+<img src="../src_/log.png" width="800"/>
 
 <p align="center"></p>
 
@@ -62,7 +62,7 @@ si nos cambiamos de rama y alteramos el archivo prueba tendremos.
 
 <p align="center">
 
-<img src="../src/newbranch.png" width="800"/>
+<img src="../src_/newbranch.png" width="800"/>
 
 <p align="center"></p>
 
@@ -71,7 +71,7 @@ si nos cambiamos de rama y alteramos el archivo prueba tendremos.
 y ahora volvemos a la main y veremos 
 <p align="center">
 
-<img src="../src/main.png" width="800"/>
+<img src="../src_/main.png" width="800"/>
 
 <p align="center"></p>
 
@@ -81,7 +81,7 @@ y para borrar una branch con el comando `git branch -D` + name
 
 <p align="center">
 
-<img src="../src/deletebranch.png" width="800"/>
+<img src="../src_/deletebranch.png" width="800"/>
 
 <p align="center"></p>
 

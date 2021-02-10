@@ -6,7 +6,7 @@ Git (pronunciado "git"[aclaración requerida] 2​) es un software de control de
 
 <p align="center">
 
-<img src="../src/init.png" width="700"/>
+<img src="../src_/init.png" width="700"/>
 
 <p align="center"></p>
 
@@ -17,7 +17,7 @@ Inmediatamente se crea el git init lo que hace es crea 2 áreas donde se almacen
 
 <p align="center">
 
-<img src="../src/graficagit.png" width="400"/>
+<img src="../src_/graficagit.png" width="400"/>
 
 <p align="center"></p>
 
@@ -29,7 +29,7 @@ En esta área se puede realizar los cambios que guste pero el git no los tomara 
 
 <p align="center">
 
-<img src="../src/agregararchivodesconozido.png" width="700"/>
+<img src="../src_/agregararchivodesconozido.png" width="700"/>
 
 <p align="center"></p>
 
@@ -41,7 +41,7 @@ como puede ver aquí aplicando git add README.md estamos añadiendo el archivo y
 
 <p align="center">
 
-<img src="../src/gitadd.png" width="700"/>
+<img src="../src_/gitadd.png" width="700"/>
 
 <p align="center"></p>
 
@@ -54,7 +54,7 @@ a un archivo al que le aplica el seguimiento gracias al comando `git add`  sin e
 
 <p align="center">
 
-<img src="../src/commit_add.png" width="700"/>
+<img src="../src_/commit_add.png" width="700"/>
 
 <p align="center"></p>
 
