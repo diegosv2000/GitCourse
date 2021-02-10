@@ -7,7 +7,7 @@ Aquí podemos ver en la terminal el comando  ` git init `.
 
 <p align="center">
 
-<img src="src/init.png" width="700"/>
+<img src="../src/init.png" width="700"/>
 
 <p align="center"></p>
 
