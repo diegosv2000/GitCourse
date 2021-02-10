@@ -1,6 +1,6 @@
 ## Git  👋
 
-Git (pronunciado "git"[aclaración requerida] 2​) es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente , Wikipedia(2021).
+Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente , Wikipedia(2021).
 
 ## Iniciando trabajo en Git
 
