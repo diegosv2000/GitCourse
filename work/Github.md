@@ -115,3 +115,50 @@ en en la terminal y en la carpeta clone tenemos:
 <p align="center"></p>
 
 </p align="center">
+
+## Modificar el github 
+Si nosostros modificamos e.g el github la modificación solo seria en ese repositorio más no de manera local , para poder ver de formal local tenemos que aplicar un `git pull`.
+
+Editemos el README.
+
+<p align="center">
+
+<img src="../src_/modificarreadmeengithub.png" width="700"/>
+
+<p align="center"></p>
+
+</p align="center">
+
+Se cambio la palbra "verisón 1" por "v1"
+
+<p align="center">
+
+<img src="../src_/savegithub.png" width="700"/>
+
+<p align="center"></p>
+
+</p align="center">
+
+Confirmamos el cambio
+
+<p align="center">
+
+<img src="../src_/foto.png" width="400"/>
+
+<p align="center"></p>
+
+</p align="center">
+
+Ahora en la terminal debemos aplicar el `git pull`.
+
+<p align="center">
+
+<img src="../src_/gitpullvisualcode.png" width="400"/>
+
+<p align="center"></p>
+
+</p align="center">
+
+y finalmente en el VisualCode
+
+
