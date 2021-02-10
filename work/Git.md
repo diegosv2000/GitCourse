@@ -65,5 +65,18 @@ como puede ver aquí aplicando git add README.md estamos añadiendo el archivo y
 Esta es un área temporal donde se pasa de un archivo el cual no fue tomado en cuenta por el area de `Working Directory`
 a un archivo al que le aplica el seguimiento gracias al comando `git add`  sin embargo no esta confirmado para eso se aplica el `git commit` el cual dara esa confirmación y pasara a la siguiente área.
 
+## [Git commit](https://git-scm.com/docs/git-commit):
+
+Commit identifica los cambios hechos en dicho ambiente de trabajo.
+
+<p align="center">
+
+<img src="../src/commit_add.png" width="700"/>
+
+<p align="center"></p>
+
+</p align="center">
+
 ## Repository :
 
+En esta área es cuando se crea una copia del archivo de ese momento y esta listo para poder sincronizarse con [Github](https://github.com/alexliqu09/GitCourse/blob/main/work/Github.md).
