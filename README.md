@@ -4,7 +4,13 @@
 The purpose of this repository is to be able to share information about the necessary commands so that you can implement 
 git and Github in your projects.
 
-<img align="right" height="auto" width="200" src="https://github.com/alexliqu09/GitCourse/blob/main/src/git.png"/>
+<p align="center">
+
+<img src="../src/git.png" width="500"/>
+
+<p align="center"></p>
+
+</p align="center">
 
 ## 🆕 Update 
 
