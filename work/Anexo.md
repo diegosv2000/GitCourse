@@ -43,4 +43,4 @@ Clona un repositorio en un directorio recién creado, crea ramas de seguimiento 
 
 ## [Git log](https://git-scm.com/docs/git-log) :
 
-Nos retorna una lista de 
+Nos retorna una lista de los commit de tu rama actual.
