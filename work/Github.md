@@ -129,7 +129,7 @@ Editemos el README.
 
 </p align="center">
 
-Se cambio la palbra "verisón 1" por "v1"
+Se cambio la palabra "verisón 1" por "v1"
 
 <p align="center">
 
