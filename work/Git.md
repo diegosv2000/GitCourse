@@ -45,9 +45,9 @@ En esta área se puede realizar los cambios que guste pero el git no los tomara 
 
 con el comando git add estamos pasadon del  `Working Directory` al `staging area` puede aplicar estos comandos.
 
-*  git add filename : Aquí agregamos solo un archivo individual del  `Working Directory` al `staging area` . 
+*  `git add filename` : Aquí agregamos solo un archivo individual del  `Working Directory` al `staging area` . 
 
-*  git add . : Aquí agregamos todos los archivos del `Working Directory`  al `staging area`.
+*  `git add .` : Aquí agregamos todos los archivos del `Working Directory`  al `staging area`.
 
 como puede ver aquí aplicando git add README.md estamos añadiendo el archivo y este pasa a ser seguido por git en  el 
 `staging area` 
