@@ -46,3 +46,30 @@ Posterior a ello nos saldra esta ventan donde nosotros nos centraremos en el `or
 <p align="center"></p>
 
 </p align="center">
+
+Copiamos las los comandos en la terminal
+<p align="center">
+
+<img src="../src/subiendomidirectorioagithub.png" width="770"/>
+
+<p align="center"></p>
+
+</p align="center">
+
+<p align="center">
+
+<img src="../src/creandolaramamain.png" width="770"/>
+
+<p align="center"></p>
+
+</p align="center">
+
+Y con el comando `git push` se termina de subir todo nuestro trabajo.
+
+<p align="center">
+
+<img src="../src/subiendomidircconpush.png" width="500"/>
+
+<p align="center"></p>
+
+</p align="center">
