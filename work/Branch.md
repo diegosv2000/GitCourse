@@ -49,15 +49,6 @@ Si nos situamos en el algoritmo de  `prueba.py` este constara de una funcón de 
 
 </p align="center">
 
-utilizamos `git log --oneline` para ver el commit de la nueva rama
-<p align="center">
-
-<img src="../src_/log.png" width="800"/>
-
-<p align="center"></p>
-
-</p align="center">
-
 si nos cambiamos de rama y alteramos el archivo prueba tendremos.
 
 <p align="center">
@@ -67,6 +58,16 @@ si nos cambiamos de rama y alteramos el archivo prueba tendremos.
 <p align="center"></p>
 
 </p align="center">
+
+utilizamos `git log --oneline` para ver el commit de la nueva rama
+<p align="center">
+
+<img src="../src_/log.png" width="800"/>
+
+<p align="center"></p>
+
+</p align="center">
+
 
 y ahora volvemos a la main y veremos 
 <p align="center">
