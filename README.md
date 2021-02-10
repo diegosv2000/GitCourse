@@ -6,7 +6,7 @@ git and Github in your projects.
 
 <img align="right" height="auto" width="200" src="https://github.com/alexliqu09/GitCourse/blob/main/src/git.png"/>
 
-## **Indices** 
+## **Índice** 
 
 * Comandos de Git
 
