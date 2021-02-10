@@ -34,6 +34,6 @@ Cn git remote lo que se est haciendo es crear un control remoto de nombre origin
 
 Con git push lo que hacemos cargar nuestros archivos desde local a nuestro repositorio remoto es decir transfiere todos los commit desde desde la repo local a tu repo remota.
 
-## [Git remote](https://git-scm.com/docs/git-clone) :
+## [Git clone](https://git-scm.com/docs/git-clone) :
 
 Clona un repositorio en un directorio recién creado, crea ramas de seguimiento remoto para cada rama en el repositorio clonado
