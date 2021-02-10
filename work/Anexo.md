@@ -1,6 +1,6 @@
 ## Anexos  👋
 
-## Comandos de Git
+## Comandos usados 
 
 ## [Git Init](https://git-scm.com/docs/git-init) :
 
@@ -25,3 +25,11 @@ con el comando git add estamos pasadon del  `Working Directory` al `staging area
 ## [Git commit](https://git-scm.com/docs/git-commit):
 
 Commit identifica los cambios hechos en dicho ambiente de trabajo.
+
+## [Git remote add origin](https://stackoverflow.com/questions/5617211/what-is-git-remote-add-and-git-push-origin-master)
+
+Cn git remote lo que se est haciendo es crear un control remoto de nombre origin ubicado en git@github.com: alexliqu09@github.com en vez de pasarle la url completa , dado que git al ser un sistema  control de versiones sus operaciones se realizan localmente para ello git hace uso de eso controles remotos.
+
+## Git Push :
+
+Con git push lo que hacemos cargar nuestros archivos desde local a nuestro repositorio remoto es decir transfiere todos los commit desde desde la repo local a tu repo remota.
