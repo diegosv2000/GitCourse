@@ -1,6 +1,6 @@
 ## Github  👋
 
-GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador , Wikipedia(2020).
+GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador , Wikipedia(2021).
 
 ## Creación de Repositorio
 
@@ -9,7 +9,7 @@ Primero comenzaremos entrando en nuestro perfil en repositorios como se ve en la
 
 <p align="center">
 
-<img src="../src/repo.png" width="700"/>
+<img src="../src/repo.png" width="500"/>
 
 <p align="center"></p>
 
@@ -19,7 +19,29 @@ Seleccionar el boton verde new.
 
 <p align="center">
 
-<img src="../src/crearrepo.png" width="700"/>
+<img src="../src/crearrepo.png" width="500"/>
+
+<p align="center"></p>
+
+</p align="center">
+
+
+Como se puede ver  en la imagende abajo debemos escribir el titulo del repositorio y posterior dar click en `create repository`.
+
+<p align="center">
+
+<img src="../src/crearrepo2.png" width="500"/>
+
+<p align="center"></p>
+
+</p align="center">
+
+Posterior a ello nos saldra esta ventan donde nosotros nos centraremos en el `or push an existing repository  from  the command line` , dado que queremos subir nuestro trabajo ha Github , para ello debemos utilizar los siguientes comandos de abajo.
+
+
+<p align="center">
+
+<img src="../src/subiendorepo.png" width="500"/>
 
 <p align="center"></p>
 
