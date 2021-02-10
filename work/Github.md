@@ -4,12 +4,22 @@ GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyecto
 
 ## Creación de Repositorio
 
-Primero comenzaremos entrando en nuestro perfil en repositorios como se imagen.
+Primero comenzaremos entrando en nuestro perfil en repositorios como se ve en la imagen.
 
 
 <p align="center">
 
 <img src="../src/repo.png" width="700"/>
+
+<p align="center"></p>
+
+</p align="center">
+
+Seleccionar el boton verde new.
+
+<p align="center">
+
+<img src="../src/crearrepo.png" width="700"/>
 
 <p align="center"></p>
 
