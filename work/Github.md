@@ -87,8 +87,8 @@ Aquí podemos ver el trabajo subido
 
 ## Clonación de un repositorio
 
-Si ha nosotros nos parece insteresante un repositorio de Github y queremos probar lo que hizo el autor
-para esta explicació se creo una carpeta clone donde se va a guardar el repositorio clonado.
+Si ha nosotros nos parece insteresante un repositorio de Github y queremos probar lo que hizo el autor/autoras
+para esta explicación  se creo en el escritorio local una carpeta clone donde se va a guardar el repositorio clonado.
 
 <p align="center">
 
