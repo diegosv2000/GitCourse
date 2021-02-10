@@ -73,3 +73,13 @@ Y con el comando `git push` se termina de subir todo nuestro trabajo.
 <p align="center"></p>
 
 </p align="center">
+
+Aquí podemos ver el trabajo subido
+
+<p align="center">
+
+<img src="../src/gitpushengithubvista.png" width="500"/>
+
+<p align="center"></p>
+
+</p align="center">
