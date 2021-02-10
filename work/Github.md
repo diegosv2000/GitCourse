@@ -83,3 +83,35 @@ Aquí podemos ver el trabajo subido
 <p align="center"></p>
 
 </p align="center">
+
+
+## Clonación de un repositorio
+
+Si ha nosotros nos parece insteresante un repositorio de Github y queremos probar lo que hizo el autor
+para esta explicació se creo una carpeta clone donde se va a guardar el repositorio clonado.
+
+<p align="center">
+
+<img src="../src/clone.png" width="500"/>
+
+<p align="center"></p>
+
+</p align="center">
+
+en en la terminal y en la carpeta clone tenemos:
+
+<p align="center">
+
+<img src="../src/cloneenlocal.png" width="700"/>
+
+<p align="center"></p>
+
+</p align="center">
+
+<p align="center">
+
+<img src="../src/clonedir.png" width="700"/>
+
+<p align="center"></p>
+
+</p align="center">
