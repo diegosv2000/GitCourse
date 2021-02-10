@@ -153,7 +153,7 @@ Ahora en la terminal debemos aplicar el `git pull`.
 
 <p align="center">
 
-<img src="../src_/gitpullvisualcode.png" width="400"/>
+<img src="../src_/gitpull.png" width="400"/>
 
 <p align="center"></p>
 
@@ -161,4 +161,11 @@ Ahora en la terminal debemos aplicar el `git pull`.
 
 y finalmente en el VisualCode
 
+<p align="center">
+
+<img src="../src_/gitpullvisualcode.png" width="400"/>
+
+<p align="center"></p>
+
+</p align="center">
 
