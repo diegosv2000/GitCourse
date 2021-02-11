@@ -169,3 +169,42 @@ y finalmente en el VisualCode
 
 </p align="center">
 
+## Subir un tag del proyecto
+Crearemos un tag para mostrar en que versión esta nuestro programa para ello entramos ala terminal
+
+<p align="center">
+
+<img src="../src_/tag.png" width="700"/>
+
+<p align="center"></p>
+
+</p align="center">
+
+Ahora para enviarlo a Github solo necesitamos usar un `git push --tags`
+
+<p align="center">
+
+<img src="../src_/gitpushtag.png" width="700"/>
+
+<p align="center"></p>
+
+</p align="center">
+
+Entrando a nuestro repositorio podremos nota como aparecera nuestro tag
+<p align="center">
+
+<img src="../src_/taggithub.png" width="400"/>
+
+<p align="center"></p>
+
+</p align="center">
+
+Haciendo click en este vemos como nos da la opción de descargar la primera versión de nuestro trabajo.
+
+<p align="center">
+
+<img src="../src_/tagprueba.png" width="400"/>
+
+<p align="center"></p>
+
+</p align="center">

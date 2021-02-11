@@ -47,3 +47,6 @@ Nos retorna una lista de los commit de tu rama actual.
 
 ## [Git branch](https://git-scm.com/docs/git-branch)
 Con este comando cremamos una nueva branch en nuestro proyecto.
+
+## [Git tag]()
+Los tags  son etiquetas que sirven para marcar la versón un proyecto mantenido por git.
