@@ -22,6 +22,13 @@ git and Github in your projects.
 * Anexo :  <a href="https://github.com/alexliqu09/GitCourse/blob/main/work/Anexo.md">  📝 </a>
 
 
+## 👨🏽‍💻 Maintainer
+* Alexander Leonardo Lique Lamas, Github: [alexliqu09](https://github.com/alexliqu09) Email: alexander.lique.l@uni.pe
 
+## 🙏🏽 Special thanks
 
+* Agradecimientos al canal de [pildorasinformaticas](https://www.youtube.com/c/pildorasinformaticas) por el Curso Git & GitHub , este repositorio se pudo realizar gracias a sus [videos](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU).
+
+* Agradecimientos al canal de [MitoCode](https://www.youtube.com/c/MitoCode) por el Curso de Git & Github , este repositorio se pudo realizar gracias a sus [videos](https://www.youtube.com/playlist?list=PLvimn1Ins-43-1sXQmGZPWLjNjPyGNi0R).
+ 
 
